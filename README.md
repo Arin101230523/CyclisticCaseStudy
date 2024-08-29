@@ -77,6 +77,7 @@ Describe the role of a data analyst with specific reference to jobs.
 ### Course 2: Ask Questions to Make Data-Driven Decisions
 
 What you'll learn:
+
 Explain how the problem-solving road map applies to typical analysis scenarios. 
 
 Discuss the use of data in the decision-making process.
@@ -88,6 +89,7 @@ Describe the key ideas associated with structured thinking.
 ### Course 3: Prepare Data for Exploration
 
 What you'll learn:
+
 Explain what factors to consider when making decisions about data collection.
 
 Discuss the difference between biased and unbiased data.
@@ -99,6 +101,7 @@ Describe best practices for organizing data.
 ### Course 4: Process Data from Dirty to Clean
 
 What you'll learn:
+
 Define different types of data integrity and identify risks to data integrity.
 
 Apply basic SQL functions to clean string variables in a database.
@@ -110,6 +113,7 @@ Describe the process of verifying data cleaning results.
 ### Course 5: Analyze Data to Answer Questions
 
 What you'll learn:
+
 Discuss the importance of organizing your data before analysis by using sorts and filters.
 
 Convert and format data.
@@ -121,6 +125,7 @@ Describe the use of functions to conduct basic calculations on data in spreadshe
 ### Course 6: Share Data Through the Art of Visualization
 
 What you'll learn:
+
 Describe the use of data visualizations to talk about data and the results of data analysis.
 
 Identify Tableau as a data visualization tool and understand its uses.
@@ -132,6 +137,7 @@ Explain principles and practices associated with effective presentations.
 ### Course 7: Data Analysis with R Programming
 
 What you'll learn:
+
 Describe the R programming language and its programming environment.
 
 Explain the fundamental concepts associated with programming in R including functions, variables, data types, pipes, and vectors.
@@ -143,6 +149,7 @@ Demonstrate an understanding of the basic formatting in R Markdown to create str
 ### Course 8: Google Data Analytics Capstone: Complete a Case Study
 
 What you'll learn:
+
 Differentiate between a capstone project, case study, and a portfolio.
 
 Identify the key features and attributes of a completed case study.
