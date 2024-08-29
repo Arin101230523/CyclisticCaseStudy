@@ -64,51 +64,89 @@ After completing the entire course, you will gain the following skillsets:
 
 ### Course 1: Foundations: Data, Data, Everywhere
 
-This is basically an introductory course. This initial course serves as an introduction to the field of data analytics, encompassing the core responsibilities of data analysts and the fundamental data analysis process. It effectively introduces key analytical tools like SQL and Excel, while also emphasizing the essential analytical skills necessary for data analysts. Moreover, the course explores the data life cycle to provide a comprehensive understanding of the data analysis journey.
+What you'll learn:
 
-The course content is presented through a combination of informative videos and well-structured readings, offering a smooth and informative initiation into the world of data analysis. To reinforce the learning experience, the course includes interactive "assignments" that prompt learners to answer specific questions.
+Define and explain key concepts involved in data analytics including data, data analysis, and data ecosystems.
 
-Overall, this introductory course serves as a solid foundation for aspiring data analysts, providing them with the knowledge and skills needed to embark on their data analysis journey with confidence and competence.
+Conduct an analytical thinking self assessment giving specific examples of the application of analytical thinking.
+
+Discuss the role of spreadsheets, query languages, and data visualization tools in data analytics.
+
+Describe the role of a data analyst with specific reference to jobs.
 
 ### Course 2: Ask Questions to Make Data-Driven Decisions
 
-This course centers on the initial phase of data analysis, which is the *"Ask"* stage. It delves into the art of formulating pertinent and impactful questions to facilitate data-driven decision-making, a fundamental aspect of data analytics. The content primarily covers foundational concepts related to Excel and Google Sheets, focusing on essential functions and formulas. Moreover, there is significant emphasis on understanding stakeholders and managing their expectations, offering valuable guidance in this area.
+What you'll learn:
+Explain how the problem-solving road map applies to typical analysis scenarios. 
+
+Discuss the use of data in the decision-making process.
+
+Demonstrate the use of spreadsheets to complete basic tasks of the data analyst including entering and organizing data.
+
+Describe the key ideas associated with structured thinking.
 
 ### Course 3: Prepare Data for Exploration
 
-This course primarily covered the second phase of the data analysis process: *Preparation*. It delved into the intricacies of data collection, and various data formats, and emphasized the critical aspects of bias, credibility, privacy, and ethical considerations when dealing with data. Additionally, the course provided insights into data types, structures, and foundational SQL practices, including standard statements like SELECT, FROM, and WHERE. Addressing the issue of bias, the course offered strategies to mitigate its impact and underscored the significance of organizing and safeguarding data throughout the analytical journey. Notably, learners were introduced to Qwiklabs, an interactive platform enabling the practical application of the acquired skills in a hands-on environment.
+What you'll learn:
+Explain what factors to consider when making decisions about data collection.
+
+Discuss the difference between biased and unbiased data.
+
+Describe databases with references to their functions and components.
+
+Describe best practices for organizing data.
 
 ### Course 4: Process Data from Dirty to Clean
 
-This course covered the essential third step of the data analysis process, namely *Data Processing*. It extensively explored various data-cleaning tools and techniques, emphasizing the critical distinction between clean and erroneous data and underscoring its profound impact on analysis outcomes. While the main focus was on ensuring data cleanliness and error-free datasets, the course provided a solid foundation for commencing the data analysis journey. Learners were introduced to intermediate spreadsheet functions, specifically in Google Sheets, such as TRIM, LEN, and CONCATENATE, further enhancing their data manipulation skills. Additionally, the course delved deeper into SQL, enabling learners to refine their proficiency in this powerful querying language. Throughout the course, ample opportunities were given to practice these skills through practice quizzes and hands-on experiences. To complement the learning journey, the course thoughtfully concluded with a valuable section offering resume advice to enhance learners' professional profiles.
+What you'll learn:
+Define different types of data integrity and identify risks to data integrity.
+
+Apply basic SQL functions to clean string variables in a database.
+
+Develop basic SQL queries for use on databases.
+
+Describe the process of verifying data cleaning results.
 
 ### Course 5: Analyze Data to Answer Questions
 
-In this course, we delved into the pivotal fourth step of data analysis, commonly known as *"Analyze"*. It marked a significant turning point where I could effectively apply the knowledge acquired to real-world data analysis scenarios. The course provided ample opportunities to work with authentic datasets, allowing me to gain practical experience and witness the culmination of all previously acquired knowledge. Although the volume of content was substantial, particularly concerning spreadsheet calculations such as COUNTIF, SUMIF, and Pivot tables, I found the integration of these skills highly valuable. Moreover, the course expanded our repertoire by introducing JOINS and different types of JOINS in SQL, enabling us to conduct more sophisticated data manipulations. Additionally, the exploration of data calculations and aggregate functions further enriched our analytical capabilities.
+What you'll learn:
+Discuss the importance of organizing your data before analysis by using sorts and filters.
+
+Convert and format data.
+
+Apply the use of functions and syntax to create SQL queries to combine data from multiple database tables.
+
+Describe the use of functions to conduct basic calculations on data in spreadsheets.
 
 ### Course 6: Share Data Through the Art of Visualization
 
-In this segment of the course, I was introduced to the fifth step, *"Share"* which encompasses the essential process of data visualization. Here, I delved into fundamental principles of design, exploring key elements of art and the diverse range of graph types. The course offered insights into various data visualization approaches, such as depicting changes over time, comparisons between objects, data composition, and relationships.
+What you'll learn:
+Describe the use of data visualizations to talk about data and the results of data analysis.
 
-Furthermore, the curriculum provided an introduction to *Tableau*, a widely-used data visualization tool in the industry. Through practical sessions, I familiarized myself with the basics of creating visualizations using Tableau. This stage proved to be pivotal in understanding how to effectively present and communicate data-driven insights through visual representations.
+Identify Tableau as a data visualization tool and understand its uses.
+
+Explain what data driven stories are including reference to their importance and their attributes.
+
+Explain principles and practices associated with effective presentations.
 
 ### Course 7: Data Analysis with R Programming
 
-This course serves as a foundational introduction to R programming. The course comprehensively covers essential topics like functions, variables, comments, vectors, pipes, and data types.
+What you'll learn:
+Describe the R programming language and its programming environment.
 
-Although it offers a relatively basic overview of R, it equips learners with the necessary skills to create visualizations effectively. The final section of the course delves into R Markdown, adding an important component to the repertoire of data analysis and report generation techniques.
+Explain the fundamental concepts associated with programming in R including functions, variables, data types, pipes, and vectors.
+
+Describe the options for generating visualizations in R.
+
+Demonstrate an understanding of the basic formatting in R Markdown to create structure and emphasize content.
 
 ### Course 8: Google Data Analytics Capstone: Complete a Case Study
 
-This course engages in a comprehensive Case Study: This course entails the practical application of the knowledge acquired thus far to successfully complete a case study. Additionally, participants will have the opportunity to enhance their job-hunting skills through insightful videos that cover common interview questions and effective responses. Furthermore, the course provides valuable resources to assist in building an impressive online portfolio.
+What you'll learn:
+Differentiate between a capstone project, case study, and a portfolio.
 
-## Conclusion
+Identify the key features and attributes of a completed case study.
 
-I found the course quite enjoyable as it effectively conveyed the information in a user-friendly manner. Even individuals without a mathematical or technical background should be able to successfully complete the course with dedication and effort. It provided a foundational understanding of the data analyst role while delving into the essential tools utilized by data analysts, including SQL, Tableau, and Spreadsheets.
+Apply the practices and procedures associated with the data analysis process to a given set of data.
 
-As someone who already has some experience in data analytics, I took this course quite fast since it only took me about 1 month and a half. However, I can feel that the course covers more theoretical background related to the concept which is not in-depth yet.
-
-Hence, here is the thing you should be aware of before taking the course: 
-This program may not fully prepare you for the job market as it claims to do. Many individuals, including myself, feel that additional learning and practice beyond this course are necessary to become job-ready. For instance, refreshing your knowledge of SQL and acquiring more in-depth skills in Tableau and R might be essential. Switching careers to become a data analyst requires more than just completing this program. It entails building a comprehensive portfolio, refining your resume, and actively networking to enhance your job prospects.
-
-This Google Data Analytics Certificate Program is a very good starting point for those who are interested to kick off their career in Data Analytics in any industry as all the industry needs those who are specialized in Data Analytics to help them with the process, identify patterns, and trends, discover new opportunities and prepare for data-driven decision making for their businesses.
+Discuss the use of case studies/portfolios when communicating with recruiters and potential employers.
